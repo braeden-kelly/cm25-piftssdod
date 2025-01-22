@@ -1,0 +1,6 @@
+- https://discord.com/channels/1127340805741359164/1327997198847315968
+- https://github.com/ryanbooz
+- https://github.com/tomcam/postgres
+- https://www.red-gate.com/simple-talk/databases/postgresql/getting-connected-to-postgresql-for-the-first-time/
+- https://github.com/ryanbooz/bluebox
+- https://dbeaver.io/download/
